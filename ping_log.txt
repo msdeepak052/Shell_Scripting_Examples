@@ -1,0 +1,4 @@
+Sat Mar 15 21:28:14 IST 2025 - SUCCESS: google.com is reachable.
+Sat Mar 15 21:28:24 IST 2025 - ERROR: google1.com is NOT reachable!
+Sat Mar 15 21:28:43 IST 2025 - ERROR: google1.com is NOT reachable!
+Sat Mar 15 21:28:53 IST 2025 - SUCCESS: google.com is reachable.
